@@ -1,2 +1,2 @@
 # unity-example-hyper
-An example HyperGamesDev project
+An example HyperGamesDev project setup
